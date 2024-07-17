@@ -1,0 +1,15 @@
+{
+  "name": "boo-icons",
+  "version": "1.0.0",
+  "description": "Set of icons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/websystemspl/boo-icons.git"
+  },
+  "author": "Web Systems",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/websystemspl/boo-icons/issues"
+  },
+  "homepage": "https://github.com/websystemspl/boo-icons#readme"
+}

@@ -1,0 +1,196 @@
+/*--------------------------------
+
+boo icon font
+Generated using nucleoapp.com
+
+-------------------------------- */
+
+@font-face {
+  font-family: 'boo';
+  src: url('../fonts/boo.eot');
+  src: url('../fonts/boo.eot') format('embedded-opentype'),
+       url('../fonts/boo.woff2') format('woff2'),
+       url('../fonts/boo.woff') format('woff'),
+       url('../fonts/boo.ttf') format('truetype'),
+       url('../fonts/boo.svg') format('svg');
+}
+
+/* base class */
+.boo {
+  display: inline-block;
+  font: normal normal normal 1em/1 'boo';
+  color: inherit;
+  flex-shrink: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* size examples - relative units */
+.boo-sm {
+  font-size: 0.8em;
+}
+
+.boo-lg {
+  font-size: 1.2em;
+}
+
+/* size examples - absolute units */
+.boo-16 {
+  font-size: 16px;
+}
+
+.boo-32 {
+  font-size: 32px;
+}
+
+/* rotate the icon infinitely */
+.boo-is-spinning {
+  animation: boo-spin 1s infinite linear;
+}
+
+@keyframes boo-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* transform */
+.boo-rotate-90 {
+  transform: rotate(90deg);
+}
+
+.boo-rotate-180 {
+  transform: rotate(180deg);
+}
+
+.boo-rotate-270 {
+  transform: rotate(270deg);
+}
+
+.boo-flip-y {
+  transform: scaleY(-1);
+}
+
+.boo-flip-x {
+  transform: scaleX(-1);
+}
+
+/* icons */
+.boo-user-03::before {
+  content: "\ea03";
+}
+
+.boo-shopping-cart-01::before {
+  content: "\ea04";
+}
+
+.boo-home-05::before {
+  content: "\ea05";
+}
+
+.boo-refresh-ccw-02::before {
+  content: "\ea06";
+}
+
+.boo-menu-01::before {
+  content: "\ea07";
+}
+
+.boo-eye::before {
+  content: "\ea08";
+}
+
+.boo-eye-off::before {
+  content: "\ea09";
+}
+
+.boo-truck-01::before {
+  content: "\ea0a";
+}
+
+.boo-trash-04::before {
+  content: "\ea0b";
+}
+
+.boo-minus::before {
+  content: "\ea0c";
+}
+
+.boo-plus::before {
+  content: "\ea0d";
+}
+
+.boo-clock-check::before {
+  content: "\ea0e";
+}
+
+.boo-home-03::before {
+  content: "\ea0f";
+}
+
+.boo-heart::before {
+  content: "\ea10";
+}
+
+.boo-shopping-bag-01::before {
+  content: "\ea11";
+}
+
+.boo-bell-ringing-03::before {
+  content: "\ea12";
+}
+
+.boo-ticket-01::before {
+  content: "\ea13";
+}
+
+.boo-gift-01::before {
+  content: "\ea14";
+}
+
+.boo-link-broken-02::before {
+  content: "\ea15";
+}
+
+.boo-sale-03::before {
+  content: "\ea16";
+}
+
+.boo-chevron-right::before {
+  content: "\ea17";
+}
+
+.boo-chevron-left::before {
+  content: "\ea18";
+}
+
+.boo-bank-note-03::before {
+  content: "\ea19";
+}
+
+.boo-coins-swap-01::before {
+  content: "\ea1a";
+}
+
+.boo-x-close::before {
+  content: "\ea1b";
+}
+
+.boo-chevron-up::before {
+  content: "\ea1c";
+}
+
+.boo-chevron-down::before {
+  content: "\ea1d";
+}
+
+.boo-image-05::before {
+  content: "\ea1e";
+}
+
+.boo-translate-01::before {
+  content: "\ea1f";
+}

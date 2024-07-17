@@ -1,0 +1,124 @@
+/*--------------------------------
+
+boo icon font
+Generated using nucleoapp.com
+
+-------------------------------- */
+
+$boo-font-path: "../fonts" !default;
+
+@font-face {
+  font-family: 'boo';
+  src: url('#{$boo-font-path}/boo.eot');
+  src: url('#{$boo-font-path}/boo.eot') format('embedded-opentype'),
+       url('#{$boo-font-path}/boo.woff2') format('woff2'),
+       url('#{$boo-font-path}/boo.woff') format('woff'),
+       url('#{$boo-font-path}/boo.ttf') format('truetype'),
+       url('#{$boo-font-path}/boo.svg') format('svg');
+}
+
+/* base class */
+.boo {
+  display: inline-block;
+  font: normal normal normal 1em/1 'boo';
+  color: inherit;
+  flex-shrink: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* size examples - relative units */
+.boo-sm {
+  font-size: 0.8em;
+}
+
+.boo-lg {
+  font-size: 1.2em;
+}
+
+/* size examples - absolute units */
+.boo-16 {
+  font-size: 16px;
+}
+
+.boo-32 {
+  font-size: 32px;
+}
+
+/* rotate the icon infinitely */
+.boo-is-spinning {
+  animation: boo-spin 1s infinite linear;
+}
+
+@keyframes boo-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* transform */
+.boo-rotate-90  {
+	transform: rotate(90deg);
+}
+
+.boo-rotate-180 {
+	transform: rotate(180deg);
+}
+
+.boo-rotate-270 {
+	transform: rotate(270deg);
+}
+
+.boo-flip-y {
+	transform: scaleY(-1);
+}
+
+.boo-flip-x {
+	transform: scaleX(-1);
+}
+
+/* icons */
+$icons: (
+  'user-03': 'ea03',
+  'shopping-cart-01': 'ea04',
+  'home-05': 'ea05',
+  'refresh-ccw-02': 'ea06',
+  'menu-01': 'ea07',
+  'eye': 'ea08',
+  'eye-off': 'ea09',
+  'truck-01': 'ea0a',
+  'trash-04': 'ea0b',
+  'minus': 'ea0c',
+  'plus': 'ea0d',
+  'clock-check': 'ea0e',
+  'home-03': 'ea0f',
+  'heart': 'ea10',
+  'shopping-bag-01': 'ea11',
+  'bell-ringing-03': 'ea12',
+  'ticket-01': 'ea13',
+  'gift-01': 'ea14',
+  'link-broken-02': 'ea15',
+  'sale-03': 'ea16',
+  'chevron-right': 'ea17',
+  'chevron-left': 'ea18',
+  'bank-note-03': 'ea19',
+  'coins-swap-01': 'ea1a',
+  'x-close': 'ea1b',
+  'chevron-up': 'ea1c',
+  'chevron-down': 'ea1d',
+  'image-05': 'ea1e',
+  'translate-01': 'ea1f',
+);
+
+@function unicode($str) {
+  @return unquote("\"\\#{$str}\"");
+}
+
+@each $name, $code in $icons {
+  .boo-#{""+$name}::before {
+    content: unicode($code);
+  }
+}
