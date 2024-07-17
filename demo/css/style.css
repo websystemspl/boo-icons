@@ -179,11 +179,11 @@ icons
   font icons
 -------------------------*/
 
-.boo-user-03::before {
+.boo-user::before {
   content: "\ea03";
 }
 
-.boo-shopping-cart-01::before {
+.boo-shopping-cart::before {
   content: "\ea04";
 }
 
@@ -191,11 +191,11 @@ icons
   content: "\ea05";
 }
 
-.boo-refresh-ccw-02::before {
+.boo-refresh::before {
   content: "\ea06";
 }
 
-.boo-menu-01::before {
+.boo-menu::before {
   content: "\ea07";
 }
 
@@ -207,11 +207,11 @@ icons
   content: "\ea09";
 }
 
-.boo-truck-01::before {
+.boo-truck::before {
   content: "\ea0a";
 }
 
-.boo-trash-04::before {
+.boo-trash::before {
   content: "\ea0b";
 }
 
@@ -227,7 +227,7 @@ icons
   content: "\ea0e";
 }
 
-.boo-home-03::before {
+.boo-home::before {
   content: "\ea0f";
 }
 
@@ -235,27 +235,27 @@ icons
   content: "\ea10";
 }
 
-.boo-shopping-bag-01::before {
+.boo-shopping-bag::before {
   content: "\ea11";
 }
 
-.boo-bell-ringing-03::before {
+.boo-bell-ringing::before {
   content: "\ea12";
 }
 
-.boo-ticket-01::before {
+.boo-ticket::before {
   content: "\ea13";
 }
 
-.boo-gift-01::before {
+.boo-gift::before {
   content: "\ea14";
 }
 
-.boo-link-broken-02::before {
+.boo-link-broken::before {
   content: "\ea15";
 }
 
-.boo-sale-03::before {
+.boo-sale::before {
   content: "\ea16";
 }
 
@@ -267,11 +267,11 @@ icons
   content: "\ea18";
 }
 
-.boo-bank-note-03::before {
+.boo-bank-note::before {
   content: "\ea19";
 }
 
-.boo-coins-swap-01::before {
+.boo-coins-swap::before {
   content: "\ea1a";
 }
 
@@ -287,11 +287,39 @@ icons
   content: "\ea1d";
 }
 
-.boo-image-05::before {
+.boo-image::before {
   content: "\ea1e";
 }
 
-.boo-translate-01::before {
+.boo-translate::before {
   content: "\ea1f";
+}
+
+.boo-coins-hand::before {
+  content: "\ea20";
+}
+
+.boo-package::before {
+  content: "\ea21";
+}
+
+.boo-phone-call::before {
+  content: "\ea22";
+}
+
+.boo-mail::before {
+  content: "\ea23";
+}
+
+.boo-instagram::before {
+  content: "\ea24";
+}
+
+.boo-facebook::before {
+  content: "\ea25";
+}
+
+.boo-youtube::before {
+  content: "\ea26";
 }
 
