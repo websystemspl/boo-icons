@@ -323,3 +323,7 @@ icons
   content: "\ea26";
 }
 
+.boo-info-circle::before {
+  content: "\ea27";
+}
+

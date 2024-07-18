@@ -222,3 +222,7 @@ Generated using nucleoapp.com
 .boo-youtube::before {
   content: "\ea26";
 }
+
+.boo-info-circle::before {
+  content: "\ea27";
+}
