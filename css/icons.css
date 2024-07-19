@@ -226,3 +226,7 @@ Generated using nucleoapp.com
 .boo-info-circle::before {
   content: "\ea27";
 }
+
+.boo-passcode-lock::before {
+  content: "\ea28";
+}

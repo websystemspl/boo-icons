@@ -327,3 +327,7 @@ icons
   content: "\ea27";
 }
 
+.boo-passcode-lock::before {
+  content: "\ea28";
+}
+
