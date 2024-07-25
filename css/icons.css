@@ -482,3 +482,7 @@ Generated using nucleoapp.com
 .boo-star-filled::before {
   content: "\ea67";
 }
+
+.boo-pencil::before {
+  content: "\ea68";
+}

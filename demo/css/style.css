@@ -583,3 +583,7 @@ icons
   content: "\ea67";
 }
 
+.boo-pencil::before {
+  content: "\ea68";
+}
+
