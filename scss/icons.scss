@@ -146,12 +146,12 @@ $icons: (
   'black-37': 'ea40',
   'black-36': 'ea41',
   'black-35': 'ea42',
-  'black-34': 'ea43',
-  'black-33': 'ea44',
-  'black-32': 'ea45',
-  'black-31': 'ea46',
-  'black-30': 'ea47',
-  'black-29': 'ea48',
+  'size-6': 'ea43',
+  'size-5': 'ea44',
+  'size-4': 'ea45',
+  'size-3': 'ea46',
+  'size-2': 'ea47',
+  'size-1': 'ea48',
   'black-28': 'ea49',
   'black-27': 'ea4a',
   'black-26': 'ea4b',
@@ -184,6 +184,7 @@ $icons: (
   'phone': 'ea66',
   'star-filled': 'ea67',
   'pencil': 'ea68',
+  'arrow-right': 'ea69',
 );
 
 @function unicode($str) {

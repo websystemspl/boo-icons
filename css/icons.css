@@ -335,27 +335,27 @@ Generated using nucleoapp.com
   content: "\ea42";
 }
 
-.boo-black-34::before {
+.boo-size-6::before {
   content: "\ea43";
 }
 
-.boo-black-33::before {
+.boo-size-5::before {
   content: "\ea44";
 }
 
-.boo-black-32::before {
+.boo-size-4::before {
   content: "\ea45";
 }
 
-.boo-black-31::before {
+.boo-size-3::before {
   content: "\ea46";
 }
 
-.boo-black-30::before {
+.boo-size-2::before {
   content: "\ea47";
 }
 
-.boo-black-29::before {
+.boo-size-1::before {
   content: "\ea48";
 }
 
@@ -485,4 +485,8 @@ Generated using nucleoapp.com
 
 .boo-pencil::before {
   content: "\ea68";
+}
+
+.boo-arrow-right::before {
+  content: "\ea69";
 }
