@@ -490,3 +490,7 @@ Generated using nucleoapp.com
 .boo-black-01::before {
   content: "\ea9f";
 }
+
+.boo-filter-funnel::before {
+  content: "\eaa0";
+}

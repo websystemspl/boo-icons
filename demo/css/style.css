@@ -591,3 +591,7 @@ icons
   content: "\ea9f";
 }
 
+.boo-filter-funnel::before {
+  content: "\eaa0";
+}
+
