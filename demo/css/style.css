@@ -595,3 +595,11 @@ icons
   content: "\eaa0";
 }
 
+.boo-pause-square::before {
+  content: "\eaa1";
+}
+
+.boo-slash-circle::before {
+  content: "\eaa2";
+}
+
