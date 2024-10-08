@@ -502,3 +502,47 @@ Generated using nucleoapp.com
 .boo-slash-circle::before {
   content: "\eaa2";
 }
+
+.boo-info-circle-1::before {
+  content: "\eaa3";
+}
+
+.boo-alert-triangle::before {
+  content: "\eaa4";
+}
+
+.boo-building-05::before {
+  content: "\eaa5";
+}
+
+.boo-check-circle-1::before {
+  content: "\eaa6";
+}
+
+.boo-pants::before {
+  content: "\eaa7";
+}
+
+.boo-nappies::before {
+  content: "\eaa8";
+}
+
+.boo-multipacks::before {
+  content: "\eaa9";
+}
+
+.boo-wipes-pads::before {
+  content: "\eaaa";
+}
+
+.boo-reusable-nappies::before {
+  content: "\eaab";
+}
+
+.boo-products::before {
+  content: "\eaac";
+}
+
+.boo-ekodom::before {
+  content: "\eaad";
+}
