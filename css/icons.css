@@ -550,3 +550,11 @@ Generated using nucleoapp.com
 .boo-grid-01::before {
   content: "\eaae";
 }
+
+.boo-lock-01::before {
+  content: "\eaaf";
+}
+
+.boo-shopping-bag-01::before {
+  content: "\eab0";
+}

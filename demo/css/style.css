@@ -651,3 +651,11 @@ icons
   content: "\eaae";
 }
 
+.boo-lock-01::before {
+  content: "\eaaf";
+}
+
+.boo-shopping-bag-01::before {
+  content: "\eab0";
+}
+
