@@ -647,3 +647,7 @@ icons
   content: "\eaad";
 }
 
+.boo-grid-01::before {
+  content: "\eaae";
+}
+

@@ -546,3 +546,7 @@ Generated using nucleoapp.com
 .boo-ekodom::before {
   content: "\eaad";
 }
+
+.boo-grid-01::before {
+  content: "\eaae";
+}
