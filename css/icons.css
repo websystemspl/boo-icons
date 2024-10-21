@@ -558,3 +558,7 @@ Generated using nucleoapp.com
 .boo-shopping-bag-01::before {
   content: "\eab0";
 }
+
+.boo-baby::before {
+  content: "\eab1";
+}

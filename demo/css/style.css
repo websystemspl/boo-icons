@@ -659,3 +659,7 @@ icons
   content: "\eab0";
 }
 
+.boo-baby::before {
+  content: "\eab1";
+}
+
