@@ -663,3 +663,15 @@ icons
   content: "\eab1";
 }
 
+.boo-pads::before {
+  content: "\eab2";
+}
+
+.boo-credit-card-01::before {
+  content: "\eab3";
+}
+
+.boo-marker-pin-01::before {
+  content: "\eab4";
+}
+
