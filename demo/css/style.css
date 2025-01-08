@@ -383,7 +383,7 @@ icons
   content: "\ea6b";
 }
 
-.boo-black-05::before {
+.boo-bamboo::before {
   content: "\ea6c";
 }
 
@@ -673,5 +673,17 @@ icons
 
 .boo-marker-pin-01::before {
   content: "\eab4";
+}
+
+.boo-day::before {
+  content: "\eab5";
+}
+
+.boo-night::before {
+  content: "\eab6";
+}
+
+.boo-cotton::before {
+  content: "\eab7";
 }
 
