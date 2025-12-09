@@ -687,3 +687,7 @@ icons
   content: "\eab7";
 }
 
+.boo-multipack::before {
+  content: "\eab8";
+}
+

@@ -4,6 +4,7 @@ boo icon font
 Generated using nucleoapp.com
 
 -------------------------------- */
+@use "sass:string";
 
 $boo-font-path: "../fonts" !default;
 
@@ -209,10 +210,11 @@ $icons: (
   'day': 'eab5',
   'night': 'eab6',
   'cotton': 'eab7',
+  'multipack': 'eab8',
 );
 
 @function unicode($str) {
-  @return unquote("\"\\#{$str}\"");
+  @return string.unquote("\"\\#{$str}\"");
 }
 
 @each $name, $code in $icons {
