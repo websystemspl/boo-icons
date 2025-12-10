@@ -590,3 +590,7 @@ Generated using nucleoapp.com
 .boo-multipack::before {
   content: "\eab8";
 }
+
+.boo-one-package::before {
+  content: "\eab9";
+}

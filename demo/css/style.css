@@ -691,3 +691,7 @@ icons
   content: "\eab8";
 }
 
+.boo-one-package::before {
+  content: "\eab9";
+}
+
