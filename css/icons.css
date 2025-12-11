@@ -594,3 +594,15 @@ Generated using nucleoapp.com
 .boo-one-package::before {
   content: "\eab9";
 }
+
+.boo-regular-pads::before {
+  content: "\eaba";
+}
+
+.boo-long-pads::before {
+  content: "\eabb";
+}
+
+.boo-cotton-pads::before {
+  content: "\eabc";
+}
