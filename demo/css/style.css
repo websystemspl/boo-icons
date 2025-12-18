@@ -696,14 +696,14 @@ icons
 }
 
 .boo-regular-pads::before {
-  content: "\eaba";
+  content: "\eabd";
 }
 
 .boo-long-pads::before {
-  content: "\eabb";
+  content: "\eabe";
 }
 
 .boo-cotton-pads::before {
-  content: "\eabc";
+  content: "\eabf";
 }
 
