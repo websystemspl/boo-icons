@@ -606,3 +606,7 @@ Generated using nucleoapp.com
 .boo-cotton-pads::before {
   content: "\eabf";
 }
+
+.boo-woman::before {
+  content: "\eac0";
+}
