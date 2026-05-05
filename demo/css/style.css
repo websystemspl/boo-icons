@@ -707,7 +707,59 @@ icons
   content: "\eabf";
 }
 
-.boo-woman::before {
+.boo-shield-tick::before {
   content: "\eac0";
+}
+
+.boo-cosmetics-3::before {
+  content: "\eac1";
+}
+
+.boo-no-perfume::before {
+  content: "\eac2";
+}
+
+.boo-tissue-box::before {
+  content: "\eac3";
+}
+
+.boo-hand-feather::before {
+  content: "\eac4";
+}
+
+.boo-ph-drop::before {
+  content: "\eac5";
+}
+
+.boo-flask::before {
+  content: "\eac6";
+}
+
+.boo-baby-heart::before {
+  content: "\eac7";
+}
+
+.boo-badge::before {
+  content: "\eac8";
+}
+
+.boo-hand-leafs::before {
+  content: "\eac9";
+}
+
+.boo-cosmetics::before {
+  content: "\eaca";
+}
+
+.boo-woman::before {
+  content: "\eacb";
+}
+
+.boo-hands-heart::before {
+  content: "\eacc";
+}
+
+.boo-cosmetics-2::before {
+  content: "\eacd";
 }
 
