@@ -663,14 +663,14 @@ Generated using nucleoapp.com
   content: "\eacd";
 }
 
-.boo-mask::before {
+.boo-steam-eye-mask::before {
   content: "\eace";
 }
 
-.boo-towels::before {
+.boo-premium-cosmetic-towels::before {
   content: "\eacf";
 }
 
-.boo-cotton-pads-2::before {
+.boo-premium-cotton-pads::before {
   content: "\ead0";
 }
