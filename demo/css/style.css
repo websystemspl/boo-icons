@@ -763,3 +763,15 @@ icons
   content: "\eacd";
 }
 
+.boo-mask::before {
+  content: "\eace";
+}
+
+.boo-towels::before {
+  content: "\eacf";
+}
+
+.boo-cotton-pads-2::before {
+  content: "\ead0";
+}
+
