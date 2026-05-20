@@ -674,3 +674,15 @@ Generated using nucleoapp.com
 .boo-premium-cotton-pads::before {
   content: "\ead0";
 }
+
+.boo-diaper-rash--cream::before {
+  content: "\ead1";
+}
+
+.boo-cleansing-gel::before {
+  content: "\ead2";
+}
+
+.boo-body-lotion::before {
+  content: "\ead3";
+}
