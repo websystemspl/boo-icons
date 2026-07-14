@@ -787,3 +787,7 @@ icons
   content: "\ead3";
 }
 
+.boo-globe::before {
+  content: "\ead4";
+}
+

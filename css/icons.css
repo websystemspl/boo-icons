@@ -686,3 +686,7 @@ Generated using nucleoapp.com
 .boo-body-lotion::before {
   content: "\ead3";
 }
+
+.boo-globe::before {
+  content: "\ead4";
+}
